@@ -1,0 +1,60 @@
+SORU 1: Hayatta en cok neye deger verirsin?
+A: Vatanperverlik     
+B: Adalet     
+C: Tebessum     
+D: Ogrenmek
+Cevap:
+SORU 2: Bir motto sec.
+A: Turk'um, dogruyum, caliskanim.     
+B: Ben intikamin, gecenin ta kendisiyim.     
+C: Buyuk guc, buyuk sorumluluk getirir.     
+D: Elbette intikamini alacagiz.
+Cevap:
+SORU 3: Dusmanlarinla nasil savasirsin?
+A: Super guclerle     
+B: Zekayla     
+C: Kiran kirana     
+D: Gucle
+Cevap:
+SORU 4: En cok hangi renk kiyafetleri tercih edersin?
+A: Mavi     
+B: Siyah     
+C: Kirmizi     
+D: Altin
+Cevap:
+SORU 5: Hangi kisilik niteligi sana daha yakin?
+A: Kibar     
+B: Gizemli     
+C: Eglenceli     
+D: Bencil
+Cevap:
+SORU 6: Kriz yonetimini nasil yaparsin?
+A: Cabuk ve emin     
+B: Akil mantikla     
+C: Paldir kuldur     
+D: Eylemlerimi sakince denetleyecek sekilde
+Cevap:
+SORU 7: Meslekdaslarin seni nasil tarif eder?
+A: Fedakar ve azimli     
+B: Cesur     
+C: Onemseyen ve endiselenen     
+D: Inatci ve anlasilmasi guc
+Cevap:
+SORU 8: Ahlaki bakis acin nedir?
+A: Iyi
+B: Kurallara uyan ama degisken motivasyona sahip    
+C: Aslolan iyiliktir     
+D: Bencil ama iyilige hizmet eden
+Cevap:
+SORU 9: Nefret ettigin kisilik niteligi?
+A: Umutsuz     
+B: Adaletsizlik     
+C: Ahlaksizlik     
+D: Tembellik ve sorumsuzluk
+Cevap:
+SORU 10: Gunun en sevdigin vakti?
+A: Gun dogumu     
+B: Sabah     
+C: Gun batimi     
+D: Gece
+Cevap:
